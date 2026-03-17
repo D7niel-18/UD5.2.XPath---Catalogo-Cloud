@@ -22,3 +22,6 @@
 ### Misión 5: Desafío del Auditor Senior (Navegación Inversa / Existencia)
 **Objetivo:** Hacer una consulta para saber la arquitectura de CPU de los servidores con una GPU instalada.
 **Consulta:** `/catalogo_cloud/centro_datos/servidor[hardware/gpu]/hardware/cpu/@arquitectura /string()`
+# Tecnologias usadas y entorno
+**Teconologias:** XML,XSD,XPath(xbook).
+**Entorno:** Visual Studio Code.
